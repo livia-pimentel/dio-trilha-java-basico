@@ -1,2 +1,4 @@
 # dio-trilha-java-basico
-Repositório para exemplos do curso de Java Básico pela DIO
+
+Este repositório documenta meu progresso inicial no curso de Java Básico da DIO, focando em conceitos fundamentais.
+
