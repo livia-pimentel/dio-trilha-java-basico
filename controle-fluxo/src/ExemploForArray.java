@@ -10,4 +10,5 @@ public class ExemploForArray {
             System.out.println("Nome do aluno é: " + alunos);
         }
     }
+    
 }
